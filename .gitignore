@@ -1,0 +1,11 @@
+/node_modules
+/upload
+/web.config
+/phpinfo.php
+*.log
+*.tar.gz
+*.tar
+*.zip
+.DS_Store
+.idea/
+*.swp 
